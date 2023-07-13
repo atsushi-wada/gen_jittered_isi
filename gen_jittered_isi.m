@@ -1,8 +1,8 @@
 function out = gen_jittered_isi(a,b,td,nt,nr)
 % GEN_JITTERED_ISI  Generate jittered ISI sequences.
 %   OUT = GEN_JITTERED_ISI(A,B,TD,NT,NR) generates jittered ISI seuqneces
-%   for NR runs, each consisting of NT trials. A and B specifies the
-%   minimun and maximun duration of each ISI, respectively. TD specifies 
+%   for NR runs, each consisting of NT trials. A and B specify the
+%   minimum and maximum duration of each ISI, respectively. TD specifies 
 %   the total duration of ISIs within each run.
 %
 %   Example:
